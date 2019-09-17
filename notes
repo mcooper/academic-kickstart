@@ -1,0 +1,14 @@
+To modify bio:
+/content/authors/admin/_index.md line 63
+
+To update CV:
+update /static/files/matt_cooper_cv.pdf
+
+To Refresh widgets, some times you must remove and re-add /content/home/index.md
+
+To update publications, copy the template in: /content/publication/
+To update projects, copy the template in: /content/project/
+
+To start localhost:1313, do hugo server
+
+All other help is here: https://sourcethemes.com/academic/docs/
