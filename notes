@@ -12,3 +12,10 @@ To update projects, copy the template in: /content/project/
 To start localhost:1313, do hugo server
 
 All other help is here: https://sourcethemes.com/academic/docs/
+
+DEPLOYING:
+youve cloned mcooper.github.io into academic-kickstart/public as a submodule
+so in ~/academic-kickstart, run `hugo`
+This will generate the website in academic-kickstart/public
+then `cd public`
+and git add/commit/push to push the new website into github.com/mcooper/mcooper.github.io
