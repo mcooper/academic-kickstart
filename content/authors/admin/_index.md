@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Geographical Sciences, University of Maryland
+- name: T.H. Chan School of Public Health, Harvard University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -34,7 +34,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:mattcoop@terpmail.umd.edu
+  link: mailto:mw.coop.r@gmail.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Matt__Coop
@@ -60,4 +60,6 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student in Geographical Sciences at the University of Maryland, where I study the environment and human well-being.  Before my starting my PhD, I lived all over the world - from Mali to Alaska to the Philippines - working at the intersection of policy and research.  Now, I work with large datasets at global scales using data science methods, but with my research questions and hypotheses deeply informed by my experiences in the field and in the policy sector.
+I am an environmental geographer interested in how global environmental change is affecting human well-being. Before academia, I lived all over the world - from Mali to Alaska to the Philippines - working at the intersection of policy and research. Now, I work with large datasets at global scales using data science methods, but with my research questions and hypotheses deeply informed by my experiences in the field and in the policy sector.
+
+In my research, I work with "big micro-data": surveys conducted at individual and household levels, combined and harmonized to give a global, high-resolution picture of human well-being.  Combining these data with information on prevailing ecological, agricultural, and climatological conditions, I use machine learning methods to better understand how the environment affects human well-being.  I'm particularly interested in understanding which populations are most vulnerable to environmental change and which policy interventions could lead to the greatest improvements in well-being, as well as using scenarios to attribute well-being to historical change and forecast what the future might look like.

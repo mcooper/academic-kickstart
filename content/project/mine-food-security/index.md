@@ -1,6 +1,6 @@
 ---
 title: Text Mining the Food Security Literature
-summary: What do 16000 abstracts reveal about how the literature?
+summary: What do 16000 abstracts reveal about the food secuity literature?
 
 date: "2019-09-17T00:00:00Z"
 ---

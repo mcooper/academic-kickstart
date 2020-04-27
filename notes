@@ -14,8 +14,8 @@ To start localhost:1313, do hugo server
 All other help is here: https://sourcethemes.com/academic/docs/
 
 DEPLOYING:
-youve cloned mcooper.github.io into academic-kickstart/public as a submodule
+youve cloned mcooper.github.io into my_website/public as a submodule
 so in ~/academic-kickstart, run `hugo`
-This will generate the website in academic-kickstart/public
+This will generate the website in my_website/public
 then `cd public`
 and git add/commit/push to push the new website into github.com/mcooper/mcooper.github.io
